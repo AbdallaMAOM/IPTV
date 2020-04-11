@@ -1,9 +1,0 @@
-http://playlist.autoiptv.net/normal.php
-http://playlist.autoiptv.net/normal.php?c=UK
-http://playlist.autoiptv.net/music.php
-http://playlist.autoiptv.net/movie.php
-http://playlist.autoiptv.net/series.php
-http://playlist.autoiptv.net/sport.php
-http://playlist.autoiptv.net/kids.php
-http://playlist.autoiptv.net/faith.php
-http://playlist.autoiptv.net/news.php
